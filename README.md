@@ -3,7 +3,6 @@
 <p align="center">
 	<a href="https://github.com/ooothinhooo">
 	
-	</a>
 </p>
 
 <h2 align="center">About me</h2>
