@@ -19,7 +19,7 @@ namespace TVT
             string Gender = "Male";
             string Address = "Can Tho, Việt Nam";
             string University = "Trường Đại học Cần Thơ";
-            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
+            string Skills = "HTML, Css, JavaScript, ReactJs, Tailwind Css, NodeJs";
             string FamousQuotes = "Chăm chỉ và mai mắn!";
         }
     }
@@ -53,6 +53,6 @@ namespace TVT
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/ooothinhooo/count.svg" />
 </p>
 
