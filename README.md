@@ -53,13 +53,21 @@
 
 <div align=center>
   <a href="#" title="StevenDev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steventranx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt = 'my-languages' />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooothinhooo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt = 'my-languages' />
   </a>
 </div>
 
 <h2 align = "center">😊 About me 😊 </h2>
-
-<span style = "font-size:20px">Hi there ! My name is **Trần Văn Thịnh**, you might call me Steven for short, I really passionate about `Web development`, especially `front end`.
+<h2 align = "center">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAACXBIWXMAAAsTAAALEwEAmpwYAAACU0lEQVR4nL2Wy0tVURTGf5B2tcIXUVFIgiMfNbSXSIMgEoRm5n9gNnGsCA4inATG7TVo1tTHKDB6WU2aNQknUlzDQKOsBprh48q6fEe2m33sHO7VDzZ37XO/tdY+67UP/B9ngCHgJfAVWNaa0zP7r5Ui0A5MA/mE6zVwMY2DDPAQ2PQM/QB6gWPAceAm8NPjbAD3ZWNX1AHvpPQXmJe8ADQH+M3Aojjz0skrErW7vcl7EXPANeViU3IcOsVZFi/nODsYUnicIh/5hOuB7+RSICelWBvABddRlJcR7S9rP0tyzErHdJGtKIQFNOltfqsYDMMiZVM4ykrHdA01wJKeWS/uH6qACslWJYclH3BKtNqpIONWSi7TydFvueRKx2a59Asd/UYPp9SEh4BB4I8czwCT4nzQ+DEn99RjZuwb8EgH/Ax8FP8p8MmEG6oOtx+s678AoyL3A/+ALmAdWAW6NS1s1qHc2CF7gBXZvC7ZJkohJAsivQLuAr9ksFFGanUA44zrlEsyclScU8CaONY/z2QnilABt1UdV4DTcjLh5fKJOOeBs3p7C5WLMeeAV8W/448fc4BzuiOeETtVvbOvd4oigumcdPYNSQZsydEUaNiBIhp2INCw2xfjW28EdRQxgjq8EWTts402leOeD1VUQaV2lCWAjBPCnBo47cXXqamR17QJXnxRY04HrvLFmKu8BfjuXOWrTl6iGRiLjDrbz5l1eJ8+TE4At2I+TixcsW8SgiXRRlKSXFjoXgDn0jgIhccm+XPFP/qAtDzatLf/QmHdgS1SCBvNLcdlGgAAAABJRU5ErkJggg==">
+<a
+_blank
+href="https://othinho.cf/"
+>
+Website
+</a>
+ </h2>
+<span style = "font-size:20px">Hi there ! My name is **Trần Văn Thịnh**, you might call me Thinhne for short, I really passionate about `Web development`, especially `front end`.
 
 </span>
 
@@ -86,5 +94,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/stevenQuotes.svg" width="846" height="150" alt="steven" />
+  <img src="svg/Quotes.svg" width="846" height="150" alt="Quotes" />
 </a>
