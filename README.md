@@ -55,7 +55,12 @@
     <!-- <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooothinhooo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"  /> -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ooothinhooo&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooothinhooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+
+
 
 <h2 align = "center">😊 About me 😊 </h2>
 <h2 align = "center">
@@ -89,6 +94,10 @@ Website
   <a href="mailto:tvthinh.154@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
+</div>
+
+<div align="center">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ooothinhooo&repo=FE_LRO)](https://github.com/ooothinhooo/FE_LRO)
 </div>
 
 <br>
