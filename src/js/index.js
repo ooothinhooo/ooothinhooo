@@ -1,10 +1,11 @@
-document.querySelector("#cv").addEventListener("click", () => {
+document.querySelector("#viewcv").addEventListener("click", () => {
+  console.log("View Cv");
   document.querySelector(
-    "#render"
+    "#viewrender"
   ).innerHTML = `   <iframe class="card w-100 vh-100" src="https://firebasestorage.googleapis.com/v0/b/fooddeliveryapp154.appspot.com/o/app%2Foci%2FCV_Tran_Van_Thinh_Web_Developer.pdf?alt=media&token=9fe359ee-01f2-45c6-bff3-5f075da45081" />`;
 });
-document.querySelector("#info").addEventListener("click", () => {
-  document.querySelector("#render").innerHTML = `
+document.querySelector("#viewinfo").addEventListener("click", () => {
+  document.querySelector("#viewrender").innerHTML = `
   <div class="card">
 						<div class="card-body">
 							<div class="row mb-3">
@@ -102,7 +103,7 @@ function ViewBangDem() {
   } else {
     // window.location.href = "/src/html/bangdiem.html";
     document.querySelector(
-      "#render"
+      "#viewrender"
     ).innerHTML = `   <iframe class="card w-100 vh-100" src="https://firebasestorage.googleapis.com/v0/b/fooddeliveryapp154.appspot.com/o/app%2Foci%2Fbangdem.pdf?alt=media&token=53149ec6-c64a-4f1e-9a5d-a700834d2c6d" />`;
   }
   console.log(text);
