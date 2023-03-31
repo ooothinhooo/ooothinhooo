@@ -108,3 +108,20 @@ function ViewBangDem() {
   }
   console.log(text);
 }
+
+
+// function slideShow(){
+// 	// console.log("Hi")
+// 	const min = 1;
+// const max = 10;
+// const randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
+// 	if(randomNumber/2 ==0)
+// 	document.querySelector("#slideShow").innerHTML=`<img class="" src="https://avatars.githubusercontent.com/u/74719505?s=400&u=3e97f6cf178069c603f6a89ec9cbff32c13b2126&v=4" alt="Admin" class="rounded-circle p-1 bg-primary" width="110">`
+// 	else 
+// 	document.querySelector("#slideShow").innerHTML=`<img class="" src="https://firebasestorage.googleapis.com/v0/b/fooddeliveryapp154.appspot.com/o/avt%2FKYUG8FM8G93XAQE?alt=media&token=571064d0-4fbf-4ee0-98ef-4799c691afe0" alt="Admin" class="rounded-circle p-1 bg-primary" width="110">`
+
+// }
+// setInterval(function(){
+// 	slideShow();
+//   }, 3000);
+//    Sau 3 giây sẽ log ra 'Hello World!'
