@@ -104,7 +104,7 @@ function ViewBangDem() {
     // window.location.href = "/src/html/bangdiem.html";
     document.querySelector(
       "#viewrender"
-    ).innerHTML = `   <iframe class="card w-100 vh-100" src="https://firebasestorage.googleapis.com/v0/b/fooddeliveryapp154.appspot.com/o/app%2Foci%2Fbangdem.pdf?alt=media&token=53149ec6-c64a-4f1e-9a5d-a700834d2c6d" />`;
+    ).innerHTML = `   <iframe class="card w-100 vh-100" src="https://firebasestorage.googleapis.com/v0/b/fooddeliveryapp154.appspot.com/o/app%2Foci%2Fbangdiem2.pdf?alt=media&token=0f1c6f64-11ab-4e42-aac0-8d29c6045bd3&_gl=1*7jyr7h*_ga*MTIzMTk2NDc4NC4xNjYwODkyNDgw*_ga_CW55HF8NVT*MTY4NjA0ODU4NS4yOC4xLjE2ODYwNDg2MTYuMC4wLjA." />`;
   }
   console.log(text);
 }
