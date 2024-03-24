@@ -53,8 +53,9 @@
 
 <div align=center>
     <!-- <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooothinhooo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"  /> -->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ooothinhooo&show_icons=true&theme=radical)
+<!-- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ooothinhooo&show_icons=true&theme=radical) -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ooothinhooo?cardType=level-alternate&theme=github&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooothinhooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
@@ -100,14 +101,7 @@ Website
 <br>
 <h2 align="center">👽 My Project 👽</h2>
 <br>
-<div align=center>
-    <!-- <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooothinhooo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"  /> -->
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ooothinhooo&repo=FE_LRO)](https://github.com/ooothinhooo/FE_LRO)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ooothinhooo&repo=API_LRO)](https://github.com/ooothinhooo/API_LRO)
-
-
-</div>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
